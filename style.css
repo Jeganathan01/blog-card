@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family: "figtree";
+}
+
+.card-image {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+}
+
+.tag {
+    display: inline-block;
+    background-color: hsl(47, 88%, 63%);
+    font-weight: bold;
+    font-size: 15px;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    color: hsl(0, 0%, 7%);
+    margin-bottom: 0.75rem;
+
+}
+
+.publish-date {
+    margin-bottom: 0.75rem;
+    font-size: 15px;
+}
+h2 {
+    margin-bottom: 1rem;
+    color: hsl(0, 0%, 7%);
+}
+.description {
+    color: hsl(0, 0%, 42%);
+    margin-bottom: 1.5rem;
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-weight: 800;
+    color: hsl(0, 0%, 7%);
+}
+
+.avatar {
+    width: 32px;
+}
+
+
+
+.card {
+    max-width: 384px;
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 20px;
+    box-shadow: 8px 8px hsl(0, 0%, 7%);
+    border: 1px solid hsl(0, 0%, 7%);
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}

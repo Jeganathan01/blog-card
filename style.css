@@ -42,6 +42,8 @@ h2 {
     margin-bottom: 1rem;
     color: hsl(0, 0%, 7%);
 }
+
+
 .description {
     color: hsl(0, 0%, 42%);
     margin-bottom: 1.5rem;
@@ -51,6 +53,10 @@ h2 {
     display: flex;
     align-items: center;
     gap: 1rem;
+    
+}
+
+.name {
     font-weight: 800;
     color: hsl(0, 0%, 7%);
 }
@@ -68,8 +74,11 @@ h2 {
     border-radius: 20px;
     box-shadow: 8px 8px hsl(0, 0%, 7%);
     border: 1px solid hsl(0, 0%, 7%);
+    margin-bottom: 4rem;
 }
-
+.card:hover h2 {
+    color: hsl(47, 88%, 63%);
+}
 
 .attribution {
     font-size: 11px;

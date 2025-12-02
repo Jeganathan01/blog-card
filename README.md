@@ -7,7 +7,7 @@ This is my solution to the Blog Preview Card challenge on Frontend Mentor.
 - Solution URL: https://your-frontend-mentor-solution
 
 ## Screenshot  
-![Screenshot](Screenshot%20From%202025-12-02%2008-18-22.png/screenshot.png)
+![Screenshot](./screenshot.png)
 
 ## verview  
 A simple blog preview card built using HTML and CSS.

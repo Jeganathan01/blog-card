@@ -3,13 +3,12 @@
 This is my solution to the Blog Preview Card challenge on Frontend Mentor.
 
 ## 🔗 Links  
-- Live Site URL: https://your-live-site-link  
-- Solution URL: https://your-frontend-mentor-solution
+- Live Site URL: [Preview](https://jeganathan01.github.io/blog-card/) 
 
 ## Screenshot  
 ![Screenshot](./screenshot.png)
 
-## verview  
+## Overview  
 A simple blog preview card built using HTML and CSS.
 
 ## Built With  
@@ -18,17 +17,16 @@ A simple blog preview card built using HTML and CSS.
 - Flexbox  
 - Mobile-first workflow
 
-## 📚 What I Learned  
+## What I Learned  
 - How to structure a card component  
 - How to center elements using flexbox  
 - How to use margin, padding, border-radius, shadows, etc.
 
-## 🚀 Continued Development  
+##  Continued Development  
 I want to improve:
 - Layout skills  
 - Responsive design  
 - Component structuring  
 
-## 👤 Author  
-- Frontend Mentor – @yourusername  
-- GitHub – https://github.com/yourusername
+## Author  
+- Frontend Mentor – [@Jeganathan](https://www.frontendmentor.io/profile/Jeganathan01)  
